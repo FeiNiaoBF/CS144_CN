@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yeelight/CS144_CN/apps/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/webget.dir/webget.o -c /home/yeelight/CS144_CN/apps/webget.cc",
+  "file": "/home/yeelight/CS144_CN/apps/webget.cc"
+}
+]

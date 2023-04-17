@@ -1,0 +1,3 @@
+/home/yeelight/CS144_CN/apps/build/CMakeFiles/webget.dir
+/home/yeelight/CS144_CN/apps/build/CMakeFiles/edit_cache.dir
+/home/yeelight/CS144_CN/apps/build/CMakeFiles/rebuild_cache.dir
